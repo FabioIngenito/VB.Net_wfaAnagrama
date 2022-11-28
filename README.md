@@ -1,4 +1,4 @@
-<h1 align="left">VB ANAGRAMA</h1>
+<h1 align="left">VB.Net ANAGRAMA</h1>
 
 | :placard: Vitrine.Dev | Fator de Vencimento |
 | -------------  | --- |
