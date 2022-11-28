@@ -1,6 +1,6 @@
 <h1 align="left">VB.Net ANAGRAMA</h1>
 
-| :placard: Vitrine.Dev | Fator de Vencimento |
+| :placard: Vitrine.Dev |  |
 | -------------  | --- |
 | :sparkles: Nome        | **VB.Net_wfaAnagrama**
 | :label: Tecnologias | VB.Net
